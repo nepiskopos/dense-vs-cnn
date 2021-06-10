@@ -1,0 +1,7 @@
+python>=3.6
+tensorflow==2.1
+tensorflow-estimator==2.1
+jupyterlab
+matplotlib
+numpy
+scikit-learn
