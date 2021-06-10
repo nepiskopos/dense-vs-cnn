@@ -11,7 +11,7 @@ Two sets of experiments are conducted:
 In every experiment, for every neural network type, the following metrics are measured:
 * Training time
 * Accuracy
-* Loss
+* Log-loss
 * Precision
 * Recall
-* F1-score
+* F1 score
